@@ -1,0 +1,10 @@
+*.csv
+*.MP4
+*.MOV
+.*
+!.gitignore
+*.xlsx
+*.Identifier
+*.jpg
+*.jpeg
+*.png
